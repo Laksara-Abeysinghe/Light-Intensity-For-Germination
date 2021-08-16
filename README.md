@@ -3,3 +3,5 @@ The researcher has used light intensity (as treatment with 3 different levels: 5
 He has measured different responses. Such as, 
 Seedling length (Root and Shoot separately)
 Germination percentage (with dark control group)
+
+Here I basically carry out the MINITAB17 statistical software to analysis this data.
